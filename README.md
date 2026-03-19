@@ -48,5 +48,5 @@ Although my academic background is in Human Anatomy, my growing interest in tech
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/abolarin812/Sentinel-Bruteforce-Simulation">Sentinel SIEM Lab</a>
 - SOC Automation Project
