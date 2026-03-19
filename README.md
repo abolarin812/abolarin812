@@ -15,7 +15,7 @@ Although my academic background is in Human Anatomy, my growing interest in tech
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://www.linkedin.com/posts/oluwaloseyi-abolarin_microsoft-sentinel-bruteforce-project-part-activity-7440426917385650176-S1KC">Sentinel SIEM Lab</a> |
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/abolarin812/Sentinel-Bruteforce-Simulation">Sentinel SIEM Lab</a> |
 
 ## Tools
 
