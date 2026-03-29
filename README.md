@@ -13,9 +13,10 @@ Although my academic background is in Human Anatomy, my growing interest in tech
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/abolarin812/Sentinel-Bruteforce-Simulation">Sentinel SIEM Lab</a> |
+- SIEM Implementation and Log Analysis
+- Vulnerability Assessment and Exploitation
+- Security Operations
+
 
 ## Tools
 
@@ -48,5 +49,6 @@ Although my academic background is in Human Anatomy, my growing interest in tech
 </div>
 
 ## Projects
-- <a href="https://github.com/abolarin812/Sentinel-Bruteforce-Simulation">Sentinel SIEM Lab</a>
+- Sentinel SIEM Lab
 - SOC Automation Project
+- Vulnerabilty Exploitation
